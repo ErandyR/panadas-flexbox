@@ -64,3 +64,18 @@
   border-radius: 6px;
   border: 2px solid #759191;
 }
+
+.informacionTextos {
+  display: flex;
+  width: 100%;
+  background: #b5b7b7;
+  justify-content: space-around;
+}
+.espacioTexto {
+  margin: 5%;
+}
+
+footer {
+  height: 100px;
+  background: #2c3c3d;
+}
