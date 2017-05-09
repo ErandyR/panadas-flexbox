@@ -76,6 +76,24 @@
 }
 
 footer {
-  height: 100px;
+  height: 100%;
   background: #2c3c3d;
+  display: flex;
+  justify-content: space-around;
+}
+
+.tamañoLetraFooter {
+  font-size: small;
+}
+.containerFooter {
+  width: 250px;
+  height: 150px;
+}
+.imgRedesSociales {
+  width: 80%;
+  height: 80%;
+}
+.redesSociales {
+  display: flex;
+  align-items: center;
 }
