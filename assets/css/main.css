@@ -41,6 +41,7 @@
 .imgPanda {
   width: 200px;
   height: 200px;
+  border: 4px solid #516b66;
 }
 .cerrar{
   position: relative;
