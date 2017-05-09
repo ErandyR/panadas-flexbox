@@ -1,0 +1,32 @@
+.header {
+  background: #2fcec1;
+  display: flex;
+  justify-content: flex-end;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+}
+.contenedorImagen {
+  display: flex;
+  margin: 10px;
+}
+.imagenDeNav {
+  width: 60px;
+  height: 60px;
+}
+
+.seccionNav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.enlace {
+  text-decoration: none;
+  width: 50px;
+  height: 100px;
+  margin: 30px;
+  font-family: arial;
+  font-size: 100%;
+  font-weight: bold;
+  color: #565353;
+}
